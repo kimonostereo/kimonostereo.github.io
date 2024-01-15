@@ -70,10 +70,10 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: https://kimonostereo.github.io/img
+img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: avatar-kimonostereo-200x200.png
+avatar: img/avatar-kimonostereo-200x200.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
