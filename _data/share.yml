@@ -14,6 +14,9 @@ platforms:
     icon: "fab fa-telegram"
     link: "https://t.me/share/url?url=URL&text=TITLE"
 
+  - type: Mastodon
+    icon: "fa-brands fa-mastodon"
+    link: "https://mastodon.social/"
   # Uncomment below if you need to.
   #
   # - type: Linkedin
